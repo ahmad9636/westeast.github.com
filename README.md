@@ -101,7 +101,7 @@
 <body>
 
     <header>
-        <h1>Ghazali Workshop</h1>
+        <h1>AL-Rafey Van Services</h1>
     </header>
 
     <nav>
@@ -111,7 +111,7 @@
     </nav>
 
     <div class="hero">
-        Welcome to My Website
+        Welcome to AL-Rafey Van Services
     </div>
 
     <section id="about">
