@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -101,7 +101,7 @@
 <body>
 
     <header>
-        <h1>My Website</h1>
+        <h1>Ghazali Workshop</h1>
     </header>
 
     <nav>
